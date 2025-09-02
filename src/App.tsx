@@ -1,4 +1,5 @@
 import React, { useEffect, useMemo, useState, createContext, useContext } from "react";
+import BackendProbe from "./BackendProbe";
 
 /**
  * Harvey's Pomodoro – Pure Frontend (No Backend)
@@ -245,6 +246,7 @@ export default function App() {
   return (
     <AuthProvider>
       <Page />
+      <BackendProbe />
     </AuthProvider>
   );
 }
