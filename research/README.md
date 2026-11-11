@@ -2,9 +2,13 @@
 
 2026-11-11：在现有 `GMyoung/harvey-pomodoro-frontend` 仓库新增独立静态子页面。选择依据为该仓库此前最后推送于 2025-09-02，且尚未配置 GitHub Pages。原有番茄钟应用保持独立。
 
+## 当前版本
+
+2026-11-11：按用户要求改为极简英文版。双列紧凑联系人卡片、缩小照片与标题、短段落；白色、浅灰绿、医疗青绿配色取自现有 Labor Force Referral Navigator（#087d74 / #f2f7f6 / #102c32）。24 个既有来源折叠保留，详细中文研究资料只保留在 research 文件夹，不显示在页面。
+
 ## 文件与运行
 
-- `docs/chicago-health-leaders/index.html`：中文人物简介、合作观察、新闻与完整来源。
+- `docs/chicago-health-leaders/index.html`：精简英文人物简介、合作观察、关键新闻与折叠来源。
 - `docs/chicago-health-leaders/styles.css`：响应式样式，无第三方运行依赖。
 - `docs/chicago-health-leaders/assets/`：两张官方人物照及用户提供的原始参观照片。
 - `docs/index.html`：静态入口，跳转至人物子页面。
