@@ -45,3 +45,5 @@ Google Doc：https://docs.google.com/document/d/1ivMfhh_D8hQ_1yfdsNvvojfvFg4XXGL
 - 参观现场：Harvey 于 2026-11-11 在本次对话提供，原图保留。
 
 2026-11-11 照片确认：Harvey 确认目标联系人是照片右侧穿深色西装、抬手讲解的男士。姓名、职务和所属机构仍未确认。
+
+2026-11-11 品牌修订：页头使用现有 Labor Force 完整 logo（复制自 E:\CodeX\lfmm-referral-navigator\dist\lfmm-logo.jpeg）；源图保持不变。界面改为 logo 对应的深蓝、亮蓝及青蓝：#073b70、#005da8、#008f9b，辅以白底和浅蓝灰。保持紧凑英文卡片和折叠来源。
