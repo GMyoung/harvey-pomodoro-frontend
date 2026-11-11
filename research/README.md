@@ -39,3 +39,5 @@ Google Doc：https://docs.google.com/document/d/1ivMfhh_D8hQ_1yfdsNvvojfvFg4XXGL
 - Tim：R.E.A.C.H. 官方董事会人物照，https://www.reach4roseland.org/
 - Andy：Jenny Fontaine / UIC，https://today.uic.edu/experts/andrew-boyd/
 - 参观现场：Harvey 于 2026-11-11 在本次对话提供，原图保留。
+
+2026-11-11 照片确认：Harvey 确认目标联系人是照片右侧穿深色西装、抬手讲解的男士。姓名、职务和所属机构仍未确认。
